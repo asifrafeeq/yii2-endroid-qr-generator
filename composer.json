@@ -1,0 +1,21 @@
+{
+    "name": "endroid-qr-generator/yii2-endroid-qr",
+    "description": "endroid qr generator",
+    "type": "library",
+    "keywords": ["endroid"," qr"," qrcode"],
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Asif",
+            "email": "asifrafeeq1@yahoo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "endroid\\qrcode\\": ""
+        }
+    }
+}
